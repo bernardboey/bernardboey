@@ -22,7 +22,7 @@ https://github.com/bernardboey/ip
 
 This was my individual project for a Software Engineering class (CS2113) (http://www.comp.nus.edu.sg/~cs2113), which used Java.
 
-# Timesheet Filler
+## Timesheet Filler
 https://github.com/bernardboey/NSWS-timesheet-filler
 
 A Python script to automatically fill up timesheets on the NSWS (NUS Student Work Scheme) website.
